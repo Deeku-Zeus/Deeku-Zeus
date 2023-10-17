@@ -17,6 +17,6 @@ I'm a passionate software engineer with 4 years of experience, residing in the v
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deekshit-swamy/) to discuss exciting opportunities, tech, or just chat about space and science. 🌟
 
 📫 Contact:
-- You can reach out to me via email at [Deeku Zeus](deekuzeus21@gmail.com).
+- You can reach out to me via email at [Deeku Zeus](mailto:deekuzeus21@gmail.com).
 
 🌟 Let's explore the universe of code and beyond together! 🌌✨
